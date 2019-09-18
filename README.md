@@ -1,6 +1,6 @@
-### calculator business logic
-calculator, 2019
-By Barasa Wakasa Silvia
+## calculator business logic
+### calculator, 2019
+### By Barasa Wakasa Silvia
 ## Description
 It helps one to know how to practice writing JavaScript functions by beginning the business logic for a calculator app
 
